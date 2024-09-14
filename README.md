@@ -19,11 +19,12 @@ Technologies Used:
 * MySQL (Database)
 * IDE: IntelliJ IDEA
 
- Installation & Setup
-Clone the repository:
+ Installation & Setup:
+ 
+ Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/bus-ticket-reservation-system.git
+git clone https://github.com/beheramaheswar67/BUS_Reservation_System.git)](https://github.com/beheramaheswar67/BUS_Reservation_System.git
 cd bus-ticket-reservation-system
 
 Database Setup:
@@ -39,7 +40,6 @@ USE bus_reservation_db;
 
 -- Create tables and insert initial data here
 Update Database Configuration:
-
 Update your database connection details in the project’s configuration file (e.g., db.properties):
 properties
 Copy code
