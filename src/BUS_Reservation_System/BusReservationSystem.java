@@ -1,5 +1,4 @@
 package BUS_Reservation_System;
-
 import java.sql.*;
 import java.util.Scanner;
 
